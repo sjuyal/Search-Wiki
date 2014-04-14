@@ -1,0 +1,10 @@
+Data/
+*.class
+*/*.class
+.project
+.settings/
+*~
+*.swp
+info/
+submission/
+.classpath
